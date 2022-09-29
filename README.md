@@ -1,4 +1,4 @@
-<img src="./Banner-GitHub.png" alt="">
+<img src="./Banner-github.png" alt="">
 
 ### Aqui você pode apreciar alguns dos meus projetos pessoais, colaborativos e de hackathons, além dos desenvolvidos na jornada do Bootcamp de Desenvolvimento Web Full-Stack da Resilia Educação.
 
