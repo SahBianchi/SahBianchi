@@ -6,6 +6,8 @@
 - 🎓 Formada no curso técnico de Desenvolvimento Web Full-Stack na Resilia Educação - concluído em março/2021
 - 🤯 Viciada em participar de hackathons
 - 🎬 Nas horas vagas sou a louca das séries
+- Recentemente nadei na Piscina da 42
+<h2 aLign="left"> <a href="#"><img src="https://nadei.42sp.org.br/img/InsigneaP3.png" width="100px"/>
 
 --- 
 ## 📫 Você pode entrar em contato comigo através do meu:
